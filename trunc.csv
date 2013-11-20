@@ -1,4 +1,4 @@
-if,GivenName,Surname,Middlename,Department,SAP Department,Division,SAP Division,Employeetype,Manager Name,SAP Manager Name,extensionAttribute1,extensionAttribute2,extensionAttribute3,extensionAttribute4,extensionAttribute5,SAP extensionAttribute5,title,SAP title,l,st,postalcode,co,company,streetAddress,samaccountname,mail,telephoneNumber,enabled
-,,,,,Test Department - 12,,Test Division - 1221,,,,,,,,,FTEST1,,Test Title,,,,,,,tscript1,,,
-,,,,,Test Department - 233,,Test Division - 2,,,,,,,,,FTEST2,,Test Title ,,,,,,,tscript2,,,
-,,,,,Test Department - 34,,Test Division - 3,,,,,,,,,FTEST3,,Test Title,,,,,,,tscript3,,,
+if,GivenName,Surname,Middlename,Department,SAP Department,Division,SAP Division,Employeetype,Manager Name,SAP Manager Name,extensionAttribute1,extensionAttribute2,extensionAttribute3,extensionAttribute4,extensionAttribute5,SAP extensionAttribute5,title,SAP title,l,st,postalcode,co,company,streetAddress,samaccountname,mail,telephoneNumber,enabled,SAP Manager
+,,,,,Test Department - 12,,Test Division - 1221,,,,,,,,,FTEST1,,Test Title,,,,,,,tscript1,,,,Lucius Bono
+,,,,,Test Department - 233,,Test Division - 2,,,,,,,,,FTEST2,,Test Title ,,,,,,,tscript2,,,,Lucius Bono
+,,,,,Test Department - 34,,Test Division - 3,,,,,,,,,FTEST3,,Test Title,,,,,,,tscript3,,,,Joseph Flynn
