@@ -1,4 +1,4 @@
 "samaccountname","Department","Division","extensionAttribute5","title","office","manager"
-"tscript1","Test Department - 12","Test Division - 1221","FTEST1","Test Title","999 Brannan","CN=Bono\, Lucius,OU=Users,OU=San Francisco,DC=dolby,DC=net"
-"tscript2","Test Department - 233","Test Division - 2","FTEST2","Test Title ","999 Brannan",
-"tscript3","Test Department - 34","Test Division - 3","FTEST3","Test Title","999 Brannan",
+"tscript1","Test Department - 12","Test Division - 1221","FTEST1","Test Title","999 Brannan","CN=Flynn\, Joseph,OU=Users,OU=San Francisco,DC=dolby,DC=net"
+"tscript2","Test Department - 233","Test Division - 2","FTEST2","Test Title ","999 Brannan","CN=Bono\, Lucius,OU=Users,OU=San Francisco,DC=dolby,DC=net"
+"tscript3","Test Department - 34","Test Division - 3","FTEST3","Test Title","999 Brannan","CN=Bono\, Lucius,OU=Users,OU=San Francisco,DC=dolby,DC=net"
